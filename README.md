@@ -1,16 +1,31 @@
-## Hi there 👋
+##  Olá meu nome é Natalia.
 
-<!--
-**Natalia3029/Natalia3029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+E- mail para contado:
+📧nataliasiramizubonifacio@gmail.com
 
-Here are some ideas to get you started:
+##  Linguagem de programação 
+Utilizo essas linguagem para programar.</br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,css,html,py,cs,java,gcp" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ferramentas 
+Outras ferramentas. </br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,mysql,grafana,github" />
+  </a>
+</p>
+
+## Curiosidades 
+
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Natalia&show_icons=true&theme=radical" height=200 />
+  <a href="https://github.com/Natalia/convoychat">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320&theme=radical" height=200 />
+  </a>
+</div>
+
