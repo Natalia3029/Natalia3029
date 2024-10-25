@@ -7,7 +7,7 @@ E- mail para contado:
 Utilizo essas linguagem para programar.</br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,html,py,cs,java,gcp" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,cs,java" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@ Utilizo essas linguagem para programar.</br>
 Outras ferramentas. </br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,mysql,grafana,github" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,mysql,grafana,github,gcp" />
   </a>
 </p>
 
